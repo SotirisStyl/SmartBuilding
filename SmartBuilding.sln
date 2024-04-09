@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBuilding", "SmartBuilding\SmartBuilding.csproj", "{56E76415-2791-434F-A8AF-89E7AA96A51D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBuildingTests", "SmartBuildingTests\SmartBuildingTests.csproj", "{82DBA8E3-17DC-4AC9-8FE7-AA690C13A483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E76415-2791-434F-A8AF-89E7AA96A51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E76415-2791-434F-A8AF-89E7AA96A51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E76415-2791-434F-A8AF-89E7AA96A51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E76415-2791-434F-A8AF-89E7AA96A51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DBA8E3-17DC-4AC9-8FE7-AA690C13A483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DBA8E3-17DC-4AC9-8FE7-AA690C13A483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DBA8E3-17DC-4AC9-8FE7-AA690C13A483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DBA8E3-17DC-4AC9-8FE7-AA690C13A483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1CB311-3FB1-45C6-8296-D1B27F0E1E9D}
+	EndGlobalSection
+EndGlobal
